@@ -1,8 +1,9 @@
 # MBA_backendCode
-I have created a Movie booking application 
-Used Tech Stack :-
+I Have Created A Movie Booking Application 
+By Using Tech Stack :-
 -NODEJS
 -ExpressJS
 -JavaScript
 -MongooDB
 -Postman
+-Jest
